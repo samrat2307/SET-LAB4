@@ -8,6 +8,14 @@ void printArray(int arr[],int n)
         cout<<arr[i]<<" ";
     }
 }
+void Array(int arr[],int n)
+{
+    for (int i=0;i<n;i++)
+    {
+        cout<<arr[i]<<" ";
+    }
+}
+
 void sort012(int *arr, int n)
 {
    //   Write your code here
